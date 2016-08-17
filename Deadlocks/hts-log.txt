@@ -1,0 +1,16 @@
+HTTrack3.48-22+htsswf+htsjava launched on Wed, 17 Aug 2016 10:59:38 at http://darwinthemes.com/retouch/html/theme/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://darwinthemes.com/retouch/html/theme/index.html -O1 "D:\Template\CDAP_new\Deadlocks" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:10:51	Warning: 	Retry after error -2 (Receive Time Out) at link darwinthemes.com/retouch/html/theme/images/post1.png (from darwinthemes.com/retouch/html/theme/index.html)
+11:11:25	Warning: 	Retry after error -4 (Connect Error) at link darwinthemes.com/retouch/html/theme/images/post4.png (from darwinthemes.com/retouch/html/theme/index.html)
+11:11:43	Warning: 	Retry after error -2 (Receive Time Out) at link darwinthemes.com/retouch/html/theme/images/post5.png (from darwinthemes.com/retouch/html/theme/index.html)
+11:11:45	Warning: 	Retry after error -2 (Receive Time Out) at link darwinthemes.com/retouch/html/theme/temp/b.png (from darwinthemes.com/retouch/html/theme/index.html)
+11:11:51	Warning: 	Retry after error -2 (Receive Time Out) at link darwinthemes.com/retouch/html/theme/images/download-as-c.png (from darwinthemes.com/retouch/html/theme/styles/screen.css)
+
+HTTrack Website Copier/3.48-22 mirror complete in 12 minutes 42 seconds : 128 links scanned, 122 files written (9139046 bytes overall) [8000624 bytes received at 10499 bytes/sec], 3730208 bytes transferred using HTTP compression in 26 files, ratio 66%, 3.7 requests per connection
+(No errors, 5 warnings, 0 messages)
